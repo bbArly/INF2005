@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta  charset="utf-8" />
+        <title>INF2005-30 lab2</title>
+    </head>
+    <body>
+        <h2>Page d’accueil du laboratoire 2</h2>
+        <ul style="list-style-type: circle;">
+        	<li><a href="http://w3.org">w3.org</a> </li>
+        	<li><a href="http://www.polymtl.ca/etudes/cs/index.php#ginfo">Génie informatique Polytech</a></li>
+        	<li><a href="http://www.uqam.ca" target="_blank">UQAM</a></li>
+        	<li><a href="contenu.html">contenu</a></li>
+        	<li><a href="contact.html">contact</a></li>
+        </ul>
+    </body>
+</html>
